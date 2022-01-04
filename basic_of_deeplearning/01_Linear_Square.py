@@ -26,4 +26,8 @@ print("분모, 분자: ", divisor, dividend)
 # 기울기 (a) 와 y절편 (b) 구하기
 a = dividend / divisor
 b = my - (mx * a)
-print(" 기울기 a, y 절편 b: ", a, b)
+print("기울기 a, y 절편 b: ", a, b)
+
+# x와 y의 평균값:  5.0 90.5
+# 분모, 분자:  20.0 46.0
+# 기울기 a, y 절편 b:  2.3 79.0
