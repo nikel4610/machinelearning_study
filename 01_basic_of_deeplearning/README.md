@@ -5,5 +5,5 @@
   
   ## 아이리스 품종 예측하기
   ----
-  ![111](https://user-images.githubusercontent.com/73810942/157810214-17b9fe61-b2ae-4246-b5b3-e20ad1cd0695.PNG)
-<자세한 내용은 코드 참조>  
+  ![111](https://user-images.githubusercontent.com/73810942/157810214-17b9fe61-b2ae-4246-b5b3-e20ad1cd0695.PNG)  
+  <자세한 내용은 코드 참조>  
