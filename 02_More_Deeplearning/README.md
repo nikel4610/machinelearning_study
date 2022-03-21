@@ -4,5 +4,5 @@
 <손글씨 학습셋과 테스트셋 오차>  
   
   
-![22121](https://user-images.githubusercontent.com/73810942/158319912-163fa781-c90e-4ff4-bcb1-e1a1dc7f08e4.PNG)
+![22121](https://user-images.githubusercontent.com/73810942/158319912-163fa781-c90e-4ff4-bcb1-e1a1dc7f08e4.PNG)  
 <학습셋과 테스트셋 오차 with CNN>
