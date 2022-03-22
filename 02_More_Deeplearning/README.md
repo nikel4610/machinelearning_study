@@ -9,4 +9,7 @@
   
     
 ![캡처](https://user-images.githubusercontent.com/73810942/159428967-da51fe8c-07fc-4a5b-bf34-15aef4a98a5a.PNG)  
-    <LSTM 을 이용해 뉴스 카테고리 분석하기 학습셋과 테스트셋>
+    <LSTM 을 이용해 뉴스 카테고리 분석하기 학습셋과 테스트셋>  
+    
+![캡처](https://user-images.githubusercontent.com/73810942/159431343-de306e11-fb5f-417f-8a73-4072d347ea5a.PNG)  
+<LSTM + CNN 을 이용한 영화 리뷰 분류>
