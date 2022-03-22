@@ -6,3 +6,7 @@
   
 ![22121](https://user-images.githubusercontent.com/73810942/158319912-163fa781-c90e-4ff4-bcb1-e1a1dc7f08e4.PNG)  
 <학습셋과 테스트셋 오차 with CNN>
+  
+    
+![캡처](https://user-images.githubusercontent.com/73810942/159428967-da51fe8c-07fc-4a5b-bf34-15aef4a98a5a.PNG)  
+    <LSTM 을 이용해 뉴스 카테고리 분석하기 학습셋과 테스트셋>
