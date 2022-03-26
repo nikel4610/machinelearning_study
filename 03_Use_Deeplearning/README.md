@@ -1,10 +1,9 @@
 ## GAN 모델로 숫자 생성  
-----
-![gan_0](https://user-images.githubusercontent.com/73810942/160229467-0d13365b-954e-48d0-abde-d5cd8f482e03.png)  
-<0번 실행>  
-
-![gan_2000](https://user-images.githubusercontent.com/73810942/160229471-f2f02adf-6c81-4aab-9d9b-89558e81d3ec.png)  
-<2000번 실행>  
-
-![gan_4000](https://user-images.githubusercontent.com/73810942/160229476-b3745666-76d1-4803-abee-b5bbbc216d01.png)  
-<4000번 실행>
+----  
+![gan_0](https://user-images.githubusercontent.com/73810942/160229529-9e3dd1ab-60ec-49e9-9fc1-1774149231e8.png)
+![gan_2000](https://user-images.githubusercontent.com/73810942/160229530-66028dee-14de-4bc0-b846-2b8973a4158f.png)
+![gan_4000](https://user-images.githubusercontent.com/73810942/160229532-22257fc0-ac3e-4b0a-8af3-e66983156866.png)  
+<div align=center>
+<0번 -> 2000번 -> 4000번 학습 실행>  
+  </div>
+  
