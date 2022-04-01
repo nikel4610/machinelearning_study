@@ -10,6 +10,10 @@
   
   <원본과 오토인코더 비교>  
     ![캡처](https://user-images.githubusercontent.com/73810942/161225181-d67bea51-046b-437e-9d41-271a5f7951c0.PNG)  
-    <치매 환자의 뇌인지 일반인의 뇌인지 예측하기>
+    <치매 환자의 뇌인지 일반인의 뇌인지 예측하기>  
+      
+  ![캡처](https://user-images.githubusercontent.com/73810942/161229223-66c54720-5cb5-4728-9f5a-a9971431c3e4.PNG)  
+      <전이 학습을 이용한 예측>
+
 
   </div>
