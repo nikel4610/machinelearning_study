@@ -8,5 +8,8 @@
   
   ![캡처](https://user-images.githubusercontent.com/73810942/160230266-8c432384-4165-4b43-8ef1-c20013210a71.PNG)
   
-  <원본과 오토인코더 비교>
+  <원본과 오토인코더 비교>  
+    ![캡처](https://user-images.githubusercontent.com/73810942/161225181-d67bea51-046b-437e-9d41-271a5f7951c0.PNG)  
+    <치매 환자의 뇌인지 일반인의 뇌인지 예측하기>
+
   </div>
