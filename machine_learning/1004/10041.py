@@ -51,3 +51,9 @@ pred = dt_clf.predict(X_test)
 print('예측 정확도: {0:.4f}'.format(accuracy_score(Y_test, pred)))
 
 # 예측 정확도: 0.9333
+
+# # 학습 데이터셋으로 예측 수행
+# pred = dt_clf.predict(X_train)
+# print('예측 정확도: {0:.4f}'.format(accuracy_score(Y_train, pred)))
+
+# # 예측 정확도: 1.0000
