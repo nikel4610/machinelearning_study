@@ -34,7 +34,7 @@ print(scores_df[['params', 'mean_test_score', 'rank_test_score', 'split0_test_sc
 # 3  {'max_depth': 2, 'min_samples_split': 3}         0.958333                3  ...                1.0               0.95
 # 4  {'max_depth': 3, 'min_samples_split': 2}         0.975000                1  ...                1.0               0.95
 # 5  {'max_depth': 3, 'min_samples_split': 3}         0.975000                1  ...                1.0               0.95
-# [6 rows x 5 columns]
+# [6 rows x 6 columns]
 
 print('GridSearchCV 최적 파라미터:', grid_dtree.best_params_)
 print('GridSearchCV 최고 정확도: {0:.4f}'.format(grid_dtree.best_score_))
