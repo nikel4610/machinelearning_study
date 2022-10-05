@@ -6,3 +6,8 @@ October Start
         OneHotEncoder, LabelEncoder, StandardScaler, MinMaxScaler
 ```
 
+```
+10-05 : Sensitivity & Specificity, Precision & Recall with Threshold 
+        PimaIndianDiabetes with Tune Dataset
+```
+![](../Figure_1.png)
