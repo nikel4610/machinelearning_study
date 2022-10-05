@@ -11,8 +11,8 @@ October Start
         PimaIndianDiabetes with Tune Dataset
 ```
 >  ![](Figure_1.png)
-정밀도(precision) -> 목표를 달성  
-재현율(recall) -> 목적을 달성  
+정밀도(precision) -> 목적를 달성  
+재현율(recall) -> 목표을 달성  
 f1 스코어 -> 2 * (prescision * recall) / (precision + recall)  
   
 >ROC 곡선  
