@@ -20,3 +20,8 @@ f1 스코어 -> 2 * (prescision * recall) / (precision + recall)
 Y축 = 재현율  
 X축 = 오답율  
 AUC = 1에 가까울수록 좋은 모델(왼쪽 구석으로 갈수록 좋은 모델)  
+  
+```
+10-06 : Random Forest, Decision Tree, Gradient Boosting
+        Logistic Regression, SVM, KNN
+```
