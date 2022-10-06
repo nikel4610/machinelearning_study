@@ -23,5 +23,5 @@ AUC = 1에 가까울수록 좋은 모델(왼쪽 구석으로 갈수록 좋은 �
   
 ```
 10-06 : Random Forest, Decision Tree, Gradient Boosting
-        Logistic Regression, SVM, KNN
+        Logistic Regression, SVM, nsemble Learning, KNN
 ```
