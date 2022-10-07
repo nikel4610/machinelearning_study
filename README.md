@@ -25,3 +25,7 @@ AUC = 1에 가까울수록 좋은 모델(왼쪽 구석으로 갈수록 좋은 �
 10-06 : Random Forest, Decision Tree, Gradient Boosting
         Logistic Regression, SVM, nsemble Learning, KNN
 ```
+```
+10-07 : Used Decision Tree, Random Forest, Logistic Regression
+        Total Best Score -> Rendom Forest / accur 82%, precision 65%, recall 64%, F1 65%
+```
