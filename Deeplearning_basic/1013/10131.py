@@ -60,5 +60,3 @@ print('Test accuracy:', score[1])
 # plt.xlabel('epoch')
 # plt.ylabel('loss')
 # plt.show()
-
-
