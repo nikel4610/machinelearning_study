@@ -4,6 +4,8 @@ from konlpy.tag import Okt
 from konlpy.corpus import kobill
 
 from matplotlib import font_manager , rc
+from tensorflow.keras.preprocessing.text import text_to_word_sequence
+
 path = "c:/Windows/Fonts/malgun.ttf"
 font_name= font_manager.FontProperties(fname=path).get_name()
 rc('font', family=font_name)
