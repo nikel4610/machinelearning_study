@@ -128,3 +128,12 @@ for model in [rf_reg, gbm_reg]:
 # RMSLE: 0.190, RMSE: 14279.476, MAE: 9427.808
 # ### GradientBoostingRegressor ###
 # RMSLE: 0.144, RMSE: 9139.397, MAE: 6105.279
+
+# 예측 가격과 실제 가격 비교 그래프
+test = pd.DataFrame({'predict_price':pred_exp, 'actual_price':y_test_exp})
+test = test.reset_index()
+test = test.drop(['index'], axis=1)
+plt.figure(figsize=(10,10))
+sns.lineplot(data=test)
+plt.legend()
+plt.show()
