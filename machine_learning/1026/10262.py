@@ -7,7 +7,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import cross_val_score
 
-# PCA를 많이 씀 -> 무족건 공부해두기
 df = pd.read_excel('D:/vsc_project/machinelearning_study/default of credit card clients.xls', header=1, sheet_name='Data').iloc[0:, 1:]
 # print(df.head())
 
