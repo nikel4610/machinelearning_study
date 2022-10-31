@@ -13,6 +13,7 @@ from sklearn.datasets import make_blobs
 from sklearn.decomposition import PCA
 
 df = pd.read_excel('D:/vsc_project/machinelearning_study/Online Retail.xlsx')
+print(df.info())
 df = df[df['Quantity'] > 0]
 df = df[df['UnitPrice'] > 0]
 df = df[df['CustomerID'].notnull()]
