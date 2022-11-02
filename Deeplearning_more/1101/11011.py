@@ -319,3 +319,21 @@ y_pred = logreg_weighted.predict(original_Xtest)
 #       fraud       0.27      0.91      1.00      0.42      0.95      0.90       148
 #
 # avg / total       1.00      1.00      0.91      1.00      0.95      0.92     85443
+
+# 랜덤포레스트 확인
+rf = RandomForestClassifier(random_state=0, class_weight=w)
+rf.fit(original_Xtrain,original_ytrain)
+y_pred = rf.predict(original_Xtest)
+
+# print('Random Forest ------ Weighted')
+# print(f'Accuracy: {accuracy_score(original_ytest,y_pred)}')
+# print('\n')
+# print(f'Confusion Matrix: \n{confusion_matrix(original_ytest, y_pred)}')
+# print('\n')
+# print(f'Recall: {recall_score(original_ytest,y_pred)}')
+# Random Forest ------ Weighted
+# Accuracy: 0.9996254813150287
+# Confusion Matrix:
+# [[85290     5]
+#  [   27   121]]
+# Recall: 0.8175675675675675
