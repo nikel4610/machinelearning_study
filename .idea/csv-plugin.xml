@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\machine_learning\1102\app_baseline_01.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\pizza.csv">
           <value>
             <Attribute>
