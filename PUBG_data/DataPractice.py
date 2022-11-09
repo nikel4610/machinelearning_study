@@ -5,8 +5,8 @@ import time
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-train_df = pd.read_csv('D:/vsc_project/machinelearning_study/pubg-finish-placement-prediction/train_V2.csv')
-test_df = pd.read_csv('D:/vsc_project/machinelearning_study/pubg-finish-placement-prediction/test_V2.csv')
+train_df = pd.read_csv('/pubg-finish-placement-prediction/train_V2.csv')
+test_df = pd.read_csv('/pubg-finish-placement-prediction/test_V2.csv')
 
 pd.set_option('display.max_rows', 100)
 pd.set_option('display.max_columns', 200)
